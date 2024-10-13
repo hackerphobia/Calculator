@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorConstraintLayout</string>
+    <string name="studentId">20225719</string>
+    <string name="op1">op1</string>
+    <string name="op2">op2</string>
+    <string name="op">op</string>
+</resources>
